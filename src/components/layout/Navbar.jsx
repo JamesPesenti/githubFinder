@@ -4,15 +4,15 @@ import {Link} from "react-router-dom"
 
 function Navbar({ title }) {
   return (
-    <nav className="navbar navbar-">
+    <nav className="navbar navbar- overflow-hidden">
     <div className="container">
-        <div className="flex-none px-2 mx-2">
-            <FaGithub className="inline pr-1 text-3xl" />
+        <div className="flex-none px-full mx-2">
+            <FaGithub className="inline pr-1 text-2xl" />
             <Link to="/" className="text-lg font-bold align-middle">
                 {"Github Finder"}
             </Link>
         </div>
-        <div className="flex-1 px-2 mx-2">
+        <div className="flex-1 ">
             <div className="flex justify-end">
                 <Link to="/" className="btn btn-ghost btn-sm rounded-btn" >
                     Home
