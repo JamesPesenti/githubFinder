@@ -1,4 +1,4 @@
-A GitHub react website that lets you search for all github user's repos and profiles using the github api. Inspiration taken from Brad Traversey's React course on Udemy.
+A GitHub website that lets you search for all github user's repos and profiles using the github api. Built using React, TailwindCss, and DaisyUi. Inspiration taken from Brad Traversey's React course on Udemy.
 
 
 ![169346249-6d417f4e-941c-4048-9f38-513d5f386ae2](https://user-images.githubusercontent.com/74566532/169347055-94932dd9-daea-443e-bd14-67d478feefa3.gif)
